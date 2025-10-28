@@ -1,1 +1,1 @@
-sdf,sdf,sdf,rokok,koi,koudev
+sdf,rokok
